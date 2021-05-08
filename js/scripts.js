@@ -25,7 +25,7 @@ window.onload = function() {
     'Hei 👋',
     'Jeg er Krenar',
     'Beklager, men sjekk heller ut hovedsiden <a target="_blank" href="https://ksala.com">ksala.com</a><br>',
-    'Du kan kontakte meg på <a href="mailto:krenar@sala.email">krenar@sala.email</a>',
+    'Du kan kontakte meg på <a href="mailto:krenar@sala.no">krenar@sala.no</a>',
     getCurrentTime(),
     '👀 KS.'
   ]
